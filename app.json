@@ -1,6 +1,6 @@
 {
-    "name": "vv",
-    "description": "vv",
+    "name": "cov",
+    "description": "cov",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
